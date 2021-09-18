@@ -1,0 +1,12 @@
+{
+  "name": "webdev-freecodecamp",
+  "version": "1.0.0",
+  "description": "[Free Code Camp](https://www.freecodecamp.org/) \\ [Free Code Camp YouTube](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^27.2.0"
+  }
+}
