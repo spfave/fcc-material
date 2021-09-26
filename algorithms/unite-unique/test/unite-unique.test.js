@@ -1,7 +1,7 @@
 const uniteUnique = require('../unite-unique');
 
 describe('Combine arrays on unique values', () => {
-  describe('Arrays includes arguments to remove - Should return array with arguments removed', () => {
+  describe('', () => {
     it('', () => {
       const result = uniteUnique([1, 3, 2], [5, 2, 1, 4], [2, 1]);
 
