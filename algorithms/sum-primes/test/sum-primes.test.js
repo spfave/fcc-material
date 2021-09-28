@@ -1,6 +1,6 @@
 const sumPrimes = require('../sum-primes');
 
-describe('Sum odd numbers of the Fibonacci sequence less than', () => {
+describe('Sum prime numbers les than input', () => {
   it('', () => {
     const result = sumPrimes(10);
     expect(typeof result).toBe('number');
